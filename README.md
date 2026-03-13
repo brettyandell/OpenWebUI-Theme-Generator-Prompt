@@ -1,12 +1,8 @@
 # OpenWebUI-Theme-Generator-Prompt
-This comprehensive prompt walks an agent through creating custom themes for OpenWebUI.
-
-
-# Complete OpenWebUI Theme Creation Prompt
 
 ## Overview
 
-This comprehensive guide walks the AI through creating custom themes for OpenWebUI, from conceptualization to deployment.
+This comprehensive prompt walks an agent through creating custom themes for OpenWebUI.
 
 ---
 
